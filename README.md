@@ -1,4 +1,4 @@
-**By:** (your name here)
+
 
 *A data science project for DSC 80 at UC San Diego.*
 
